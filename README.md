@@ -13,7 +13,7 @@ This is a solution to the [Chat app CSS illustration challenge on Frontend Mento
 ## Links
 
 - Solution URL: 
-- Live Site URL: 
+- Live Site URL: https://jvstleon.github.io/Chat-app-CSS-illustration/
 
 
 ## Built with
